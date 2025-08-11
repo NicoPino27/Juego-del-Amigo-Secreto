@@ -18,6 +18,7 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 
 ### Gift Demostrativo
 [![Gift-Funcionalidad-Amigo-Secreto.gif](https://i.postimg.cc/q74s2JLk/Gift-Funcionalidad-Amigo-Secreto.gif)](https://postimg.cc/NKC2cwSV)
+
 ---
 
 ## 🚀 Funcionalidades
