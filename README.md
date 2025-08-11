@@ -8,7 +8,7 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 ## 📸 Vista previa
 
 ### Página principal
-[![Pagina-Principal.png](https://i.postimg.cc/J0PvCYzX/Pagina-Principal.png)](https://postimg.cc/q66j8LnB)
+[![Pagina-Principal.png](https://i.postimg.cc/PJVThQXC/Pagina-Principal.png)](https://postimg.cc/wRNSQJsz)
 
 ### Añadiendo nombres
 [![A-adir-Nombre.png](https://i.postimg.cc/85dxtz8t/A-adir-Nombre.png)](https://postimg.cc/ygdfNB8Z)
