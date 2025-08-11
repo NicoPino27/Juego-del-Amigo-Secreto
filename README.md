@@ -1,3 +1,4 @@
+AGREGALO CON ESTO 
 # 🎁 Amigo Secreto
 
 Aplicación web sencilla e interactiva para organizar un sorteo de **Amigo Secreto** entre amigos, familiares o compañeros de trabajo.  
@@ -8,13 +9,13 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 ## 📸 Vista previa
 
 ### Página principal
-![Página Principal](Imagenes/Pagina-Principal.png)
+[![Pagina-Principal.png](https://i.postimg.cc/PJVThQXC/Pagina-Principal.png)](https://postimg.cc/wRNSQJsz)
 
 ### Añadiendo nombres
-![Añadir Nombre](Imagenes/A-adir-Nombre.png)
+[![A-adir-Nombre.png](https://i.postimg.cc/85dxtz8t/A-adir-Nombre.png)](https://postimg.cc/ygdfNB8Z)
 
 ### Sorteo realizado
-![Iniciar Sorteo](Imagenes/Iniciar-Sorteo.png)
+[![Iniciar-Sorteo.png](https://i.postimg.cc/Y0pZVBMk/Iniciar-Sorteo.png)](https://postimg.cc/7GWKGc5Q)
 
 ### Gift Demostrativo
 ![Demostración Amigo Secreto](Imagenes/Gift-Funcionalidad-Amigo-Secreto.gif)
@@ -27,5 +28,3 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 - **Validación de entrada:** Evita añadir campos vacíos.
 - **Visualización de lista:** Se muestra una lista con todos los nombres ingresados.
 - **Sorteo aleatorio:** Selecciona un nombre de la lista al azar.
-
----
