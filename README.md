@@ -6,6 +6,14 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 
 ---
 
+## 🚀 Funcionalidades
+
+- **Agregar nombres:** El usuario escribe un nombre en el campo de texto y lo añade a la lista.
+- **Validación de entrada:** Evita añadir campos vacíos.
+- **Visualización de lista:** Se muestra una lista con todos los nombres ingresados.
+- **Sorteo aleatorio:** Selecciona un nombre de la lista al azar.
+---
+
 ## 📸 Vista previa
 
 ### Página principal
@@ -20,13 +28,6 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 ### Video Demostrativo
 https://github.com/user-attachments/assets/62b5dc86-c740-4668-8db3-c3165ae9b489
 
-
-
 ---
 
-## 🚀 Funcionalidades
 
-- **Agregar nombres:** El usuario escribe un nombre en el campo de texto y lo añade a la lista.
-- **Validación de entrada:** Evita añadir campos vacíos.
-- **Visualización de lista:** Se muestra una lista con todos los nombres ingresados.
-- **Sorteo aleatorio:** Selecciona un nombre de la lista al azar.
