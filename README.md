@@ -8,13 +8,13 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 ## 📸 Vista previa
 
 ### Página principal
-[![Pagina-Principal.png](https://i.postimg.cc/PJVThQXC/Pagina-Principal.png)](https://postimg.cc/wRNSQJsz)
+![Página Principal](Imagenes/Pagina-Principal.png)
 
 ### Añadiendo nombres
-[![A-adir-Nombre.png](https://i.postimg.cc/85dxtz8t/A-adir-Nombre.png)](https://postimg.cc/ygdfNB8Z)
+![Añadir Nombre](Imagenes/A-adir-Nombre.png)
 
 ### Sorteo realizado
-[![Iniciar-Sorteo.png](https://i.postimg.cc/Y0pZVBMk/Iniciar-Sorteo.png)](https://postimg.cc/7GWKGc5Q)
+![Iniciar Sorteo](Imagenes/Iniciar-Sorteo.png)
 
 ### Gift Demostrativo
 ![Demostración Amigo Secreto](Imagenes/Gift-Funcionalidad-Amigo-Secreto.gif)
@@ -27,3 +27,5 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 - **Validación de entrada:** Evita añadir campos vacíos.
 - **Visualización de lista:** Se muestra una lista con todos los nombres ingresados.
 - **Sorteo aleatorio:** Selecciona un nombre de la lista al azar.
+
+---
