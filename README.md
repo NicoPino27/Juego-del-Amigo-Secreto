@@ -1,4 +1,4 @@
-AGREGALO CON ESTO 
+
 # 🎁 Amigo Secreto
 
 Aplicación web sencilla e interactiva para organizar un sorteo de **Amigo Secreto** entre amigos, familiares o compañeros de trabajo.  
