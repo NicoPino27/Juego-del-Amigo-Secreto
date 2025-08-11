@@ -8,16 +8,15 @@ Permite añadir nombres, visualizarlos en una lista y seleccionar aleatoriamente
 ## 📸 Vista previa
 
 ### Página principal
-![Pantalla principal](assets/captura-principal.png)
+[![Pagina-Principal.png](https://i.postimg.cc/J0PvCYzX/Pagina-Principal.png)](https://postimg.cc/q66j8LnB)
 
 ### Añadiendo nombres
-![Añadiendo nombres](assets/captura-agregar.png)
+[![A-adir-Nombre.png](https://i.postimg.cc/85dxtz8t/A-adir-Nombre.png)](https://postimg.cc/ygdfNB8Z)
 
 ### Sorteo realizado
-![Sorteo realizado](assets/captura-sorteo.png)
+[![Iniciar-Sorteo.png](https://i.postimg.cc/Y0pZVBMk/Iniciar-Sorteo.png)](https://postimg.cc/7GWKGc5Q)
 
-> También puedes incluir un GIF o video demostrativo:
-> ![Demo](assets/demo.gif)
+### Gift Demostrativo
 
 ---
 
